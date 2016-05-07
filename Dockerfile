@@ -1,6 +1,6 @@
 FROM tutum/lamp
 
-MAINTAINER Ben Maggacis, ben.maggacis@qut.edu.au
+MAINTAINER Ben M, git@bmagg.com
 
 # Install some more php libs and nano
 RUN apt-get -y install php5-curl php5-gd nano
